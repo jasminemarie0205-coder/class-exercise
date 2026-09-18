@@ -398,6 +398,7 @@ git branch -d feature/subtract
 
 Create and switch to a new branch:
 
+
 ```bash
 git switch -c feature/multiply
 ```
